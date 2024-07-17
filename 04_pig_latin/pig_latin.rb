@@ -1,3 +1,4 @@
+#write your code here
 def translate(sentence)
     vowels = ['a', 'e', 'i', 'o', 'u']
     
