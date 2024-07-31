@@ -1,6 +1,6 @@
 #write your code here
 def echo(input)
-    "#{input}"
+    input
 end
 
 def shout(input)
